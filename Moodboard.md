@@ -8,6 +8,12 @@
 
 [Menu au dessus de la page, barré la section actuel](https://www.behance.net/gallery/106729969/Clean-Portfolio-Website-Design?tracking_source=search_projects_recommended%7Cportfolio%20website)
 
+[Compartimentation de la page](https://pin.it/7h8OBzz)
+
+[Aller de comptétences en compétences](https://pin.it/4xJNvkV)
+
+[Les parties sont représentées par des points qui sont encerclé quand on est la partie](https://pin.it/1jn5MKY)
+
 [Pour une ligne du temps ou un historique ou un ordre chronologique](https://www.behance.net/gallery/43818043/Personal-website)
 
 ## Couleurs
