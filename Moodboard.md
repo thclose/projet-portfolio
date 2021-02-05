@@ -20,4 +20,10 @@ Palette de 2,3 couleurs
 
 ## Animation
 
+## Divers
 
+### Police
+
+#### Gros titre 
+
+[Mon nom, "Titre de la page"](https://www.myfonts.com/fonts/jen-wagner/palmer-lake/)
