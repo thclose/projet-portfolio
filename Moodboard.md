@@ -4,8 +4,6 @@
 
 [Séparation des sous-catégories](https://www.behance.net/gallery/111465583/Photographer-Mike-White?tracking_source=search_projects_recommended%7Cportfolio%20website)
 
-## Navigation
-
 [Menu au dessus de la page, barré la section actuel](https://www.behance.net/gallery/106729969/Clean-Portfolio-Website-Design?tracking_source=search_projects_recommended%7Cportfolio%20website)
 
 [Compartimentation de la page](https://pin.it/7h8OBzz)
