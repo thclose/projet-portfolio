@@ -2,7 +2,7 @@
 
 ## Menu
 
-https://www.behance.net/gallery/106729969/Clean-Portfolio-Website-Design?tracking_source=search_projects_recommended%7Cportfolio%20website
+[Menu au dessus de la page, barré la section actuel](https://www.behance.net/gallery/106729969/Clean-Portfolio-Website-Design?tracking_source=search_projects_recommended%7Cportfolio%20website)
 
 ## Navigation
 
