@@ -26,9 +26,11 @@ Palette de 2,3 couleurs
 
 ## Animation
 
+[Effet zoom](https://www.behance.net/gallery/104578749/Photographer-Website-UI-Design?tracking_source=search_projects_recommended%7Cphotography%20website%20web%20design)
+
 ## Divers
 
-### Police
+### Polices
 
 #### Gros titre 
 
@@ -41,3 +43,9 @@ Palette de 2,3 couleurs
 #### Texte
 
 [Texte](https://www.myfonts.com/fonts/font-fabric/alkes/thin/)
+
+### Disposition
+
+[Mosaïque](https://pin.it/7sWFrc7)
+
+[Superposition](https://dribbble.com/shots/12049190-Real-Estate-Website-Design)
