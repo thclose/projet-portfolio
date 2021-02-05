@@ -27,3 +27,11 @@ Palette de 2,3 couleurs
 #### Gros titre 
 
 [Mon nom, "Titre de la page"](https://www.myfonts.com/fonts/jen-wagner/palmer-lake/)
+
+#### Titre
+
+[Titre, sous titre](https://www.myfonts.com/fonts/mti/laborat/regular/)
+
+#### Texte
+
+[Texte](https://www.myfonts.com/fonts/font-fabric/alkes/thin/)
