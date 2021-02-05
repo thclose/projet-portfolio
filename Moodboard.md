@@ -10,7 +10,7 @@
 
 [Aller de comptétences en compétences](https://pin.it/4xJNvkV)
 
-[Les parties sont représentées par des points qui sont encerclé quand on est la partie](https://pin.it/1jn5MKY)
+[Les parties sont représentées par des points qui sont encerclé quand on est la partie](https://dribbble.com/shots/4730541)
 
 [Pour une ligne du temps ou un historique ou un ordre chronologique](https://www.behance.net/gallery/43818043/Personal-website)
 
