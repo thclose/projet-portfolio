@@ -9,4 +9,4 @@ Ce repo à été créé pour un exercice de la HEPL
 
 ![Moodboard](./img/moodboard.png)
 
-<a href="https://app.milanote.com/1Ld0eE1zxVkL5x?p=EPVRAK7yDeh">Liens du moodboard</a>
+[Liens du moodboard](./Moodboard.md)
