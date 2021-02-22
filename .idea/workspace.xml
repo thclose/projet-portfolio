@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bd203bb-b820-467e-9db6-c32ede9395dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/strategie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,8 @@
       <updated>1613125355553</updated>
       <workItem from="1613125357503" duration="1295000" />
       <workItem from="1613720208494" duration="583000" />
-      <workItem from="1613720824254" duration="327000" />
+      <workItem from="1613720824254" duration="1246000" />
+      <workItem from="1614025259234" duration="386000" />
     </task>
     <servers />
   </component>
@@ -59,6 +62,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

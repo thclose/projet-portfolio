@@ -10,3 +10,8 @@ Ce repo à été créé pour un exercice de la HEPL
 ![Moodboard](./img/moodboard.png)
 
 [Liens du moodboard](./Moodboard.md)
+
+***
+## Stratégie
+
+[Stratégie](./strategie.md)
