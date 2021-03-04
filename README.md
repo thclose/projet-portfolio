@@ -9,28 +9,33 @@ Ce repo à été créé pour un exercice de la HEPL
 
 ## Stratégie
 
+* Objectif
+
+Dans le milieu de la création web, un portfolio est indispensable pour montrer le travail accomplis, ses compténces, ... Il est aussi important pour démontrer, au client, futurs patrons, son style ainsi que ses goûts. Cet outil fait office de curriculum vittae. 
+
 * Page de chargement
 
 Cette page contiendra mon logo, qui se dessinera progressivement en même temps qu'une barre de chargement.
-***
+
 * Page d'accueil
 
 Sur cette page, sur le coté gauche il y aura une "barre de progression" composée d'une ligne et des points qui représenterons l'avancement sur la page.
 
-Dans l'en-tête il y aura un menu avec les différentes pages du site. ainsi que mon logo, mon nom, ...
+Dans l'en-tête il y aura un menu avec les différentes pages du site. Ainsi que mon logo, mon nom, ...
 
 Dans la première section de cette page (présentation),
 il y aura une photo avec comme titre mon nom, prénom. a droite de cette photo il y aura un texte de présentation.
 
-La deuxième section de cette page sera une sorte de ligne du temps, qui présentera toutes mes réalisations de la plus anciennes a la plus récente qui sera en premiers.
-
-Les réalisations/projets seront cliquable et dirigera vers la page du projet. Sur cette page dédiée il y aura une description du projet concerné ainsi que la date de création du projet.
+La deuxième section de cette page sera une sorte de ligne du temps, qui présentera toutes mes 5 dernières réalisations de la plus anciennes a la plus récente qui sera en premiers. Les réalisations se disposeront de manière verticale, de part et d'autre d'un ligne finement tracée. Chaques réal. comportera d'un titre, petit texte explicatif ainsi que d'une prévisualisation du projet. On pourra cliquer sur ce dernier pour ce rendre à la page dédiées du projet/réalisation.
 
 A la fin de cette page, la dernière section (me contacter) servira de redirections vers mes réseaux sociaux, et de mon mail professionnel.
-***
+
+Il y aura un bouton de redirection vers la page "Me contacter". Il y aura aussi des liens vers mes réseaux sociaux sous forme de leurs icones respectifs.
+
+
 * Contact
 
-Cette page servira uniquement a pouvoir me contacter directement (avec un maiil par exemple):
+Cette page servira uniquement a pouvoir me contacter directement (avec un mail par exemple):
 
 A gauche de cette page, il y aura un texte explicatif de comment le contact va se réaliser avec une illustration?
 
