@@ -110,3 +110,15 @@ Palette de 2,3 couleurs
 [Mosaïque](https://pin.it/7sWFrc7)
 
 [Superposition](https://dribbble.com/shots/12049190-Real-Estate-Website-Design)
+
+## Wireframe
+
+
+### Accueil
+![accueil](./img/Accueil.png)
+
+### Contact
+![contact](./img/Contact.png)
+
+### Mes réalisations
+![mes réalisations](./img/Mes%20realisations.png)
