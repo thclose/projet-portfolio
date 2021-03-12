@@ -1,9 +1,16 @@
 # Projet Portfolio
 
-Ce repo à été créé pour un exercice de la HEPL
+> Ce repo à été créé pour un exercice de la HEPL
 (https://github.com/hepl-dw/projet-portfolio)
 
+***
+1. Stratégie
 
+2. Plan du site
+
+3. Wireframe
+
+4. Prise de note
 ***
 
 
@@ -11,35 +18,35 @@ Ce repo à été créé pour un exercice de la HEPL
 
 * Objectif
 
-Dans le milieu de la création web, un portfolio est indispensable pour montrer le travail accomplis, ses compténces, ... Il est aussi important pour démontrer, au client, futurs patrons, son style ainsi que ses goûts. Cet outil fait office de curriculum vittae. 
+	Dans le milieu de la création web, un portfolio est indispensable pour montrer le travail accomplis, ses compténces, ... Il est aussi important pour démontrer, au client, futurs patrons, son style ainsi que ses goûts. Cet outil fait office de curriculum vittae. 
 
 * Page de chargement
 
-Cette page contiendra mon logo, qui se dessinera progressivement en même temps qu'une barre de chargement.
+	Cette page contiendra mon logo, qui se dessinera progressivement en même temps qu'une barre de chargement.
 
 * Page d'accueil
 
-Sur cette page, sur le coté gauche il y aura une "barre de progression" composée d'une ligne et des points qui représenterons l'avancement sur la page.
+	Sur cette page, sur le coté gauche il y aura une "barre de progression" composée d'une ligne et des points qui représenterons l'avancement sur la page.
 
-Dans l'en-tête il y aura un menu avec les différentes pages du site. Ainsi que mon logo, mon nom, ...
+	Dans l'en-tête il y aura un menu avec les différentes pages du site. Ainsi que mon logo, mon nom, ...
 
-Dans la première section de cette page (présentation),
+	Dans la première section de cette page (présentation),
 il y aura une photo avec comme titre mon nom, prénom. a droite de cette photo il y aura un texte de présentation.
 
-La deuxième section de cette page sera une sorte de ligne du temps, qui présentera toutes mes 5 dernières réalisations de la plus anciennes a la plus récente qui sera en premiers. Les réalisations se disposeront de manière verticale, de part et d'autre d'un ligne finement tracée. Chaques réal. comportera d'un titre, petit texte explicatif ainsi que d'une prévisualisation du projet. On pourra cliquer sur ce dernier pour ce rendre à la page dédiées du projet/réalisation.
+	La deuxième section de cette page sera une sorte de ligne du temps, qui présentera toutes mes 5 dernières réalisations de la plus anciennes a la plus récente qui sera en premiers. Les réalisations se disposeront de manière verticale, de part et d'autre d'un ligne finement tracée. Chaques réal. comportera d'un titre, petit texte explicatif ainsi que d'une prévisualisation du projet. On pourra cliquer sur ce dernier pour ce rendre à la page dédiées du projet/réalisation.
 
-A la fin de cette page, la dernière section (me contacter) servira de redirections vers mes réseaux sociaux, et de mon mail professionnel.
+	A la fin de cette page, la dernière section (me contacter) servira de redirections vers mes réseaux sociaux, et de mon mail professionnel.
 
-Il y aura un bouton de redirection vers la page "Me contacter". Il y aura aussi des liens vers mes réseaux sociaux sous forme de leurs icones respectifs.
+	Il y aura un bouton de redirection vers la page "Me contacter". Il y aura aussi des liens vers mes réseaux sociaux sous forme de leurs icones respectifs.
 
 
 * Contact
 
-Cette page servira uniquement a pouvoir me contacter directement (avec un mail par exemple):
+	Cette page servira uniquement a pouvoir me contacter directement (avec un mail par exemple):
 
-A gauche de cette page, il y aura un texte explicatif de comment le contact va se réaliser avec une illustration?
+	A gauche de cette page, il y aura un texte explicatif de comment le contact va se réaliser avec une illustration?
 
-A droite de cette page, il y aura le formulaire de contact qui contiendra, une zone pour entrer le nom et prénom de la personne,  l'e-mail de la personne, une zone pour mettre le sujet du message, une zone pour le message, et enfin un bouton pour envoyer les messages.
+	A droite de cette page, il y aura le formulaire de contact qui contiendra, une zone pour entrer le nom et prénom de la personne,  l'e-mail de la personne, une zone pour mettre le sujet du message, une zone pour le message, et enfin un bouton pour envoyer les messages.
 
 ***
 
@@ -114,12 +121,8 @@ Palette de 2,3 couleurs
 
 ## Wireframe
 
+| Accueil  | Contact  | Mes réalisations  |
+|:----------|:----------|:----------|
+| ![accueil](./img/Accueil.png)    | ![contact](./img/Contact.png)    | ![mes réalisations](./img/Mes%20realisations.png)    |
 
-### Accueil
-![accueil](./img/Accueil.png)
 
-### Contact
-![contact](./img/Contact.png)
-
-### Mes réalisations
-![mes réalisations](./img/Mes%20realisations.png)
